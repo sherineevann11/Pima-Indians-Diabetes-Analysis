@@ -10,4 +10,4 @@ cd YourProject
 cd Pima-Indians-Diabetes-Analysis
 
 #Dependencies
--Numpy -Pandas -Matplotlib -Seaborn -Sklearn
+-Numpy -Pandas -Matplotlib -Seaborn -Sklearn.
