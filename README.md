@@ -25,7 +25,7 @@ To get started with this project, you'll need to install the necessary libraries
 
 ## Dependencies:
 NumPy
-Pandas
-Matplotlib
-Seaborn
+-Pandas
+-Matplotlib
+-Seaborn
 Scikit-learn
