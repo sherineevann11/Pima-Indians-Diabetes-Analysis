@@ -9,11 +9,11 @@ This project aims to analyze and predict diabetes using the Pima Indians Diabete
 # Installation:
 To get started with this project, you'll need to install the necessary libraries and dependencies.
 
-# Clone the repository:
+1. Clone the repository:
 git clone https://github.com/yourusername/YourProject.git
-cd YourProject.
+cd YourProject
 
-# Navigate to the project directory:
+2. Navigate to the project directory:
 cd Pima-Indians-Diabetes-Analysis. 
 
 
